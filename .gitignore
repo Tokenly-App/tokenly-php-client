@@ -1,0 +1,27 @@
+# Composer
+/vendor/
+
+# PHPStan
+/.phpstan/
+/phpstan.cache
+
+# PHP-CS-Fixer
+/.php-cs-fixer.cache
+
+# PHPUnit / Pest
+/.phpunit.cache/
+/.phpunit.result.cache
+/coverage/
+
+# IDEs
+/.idea/
+/.vscode/
+*.iml
+
+AGENTS.md
+CLAUDE.md
+
+# OS
+.DS_Store
+Thumbs.db
+
