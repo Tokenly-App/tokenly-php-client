@@ -1,5 +1,5 @@
 {
-    "name": "tokenly/tokenly-php",
+    "name": "tokenly-app/tokenly-php",
     "description": "PHP client library for the Tokenly API",
     "type": "library",
     "license": "MIT",
